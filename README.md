@@ -79,7 +79,8 @@ A. n(n+1) 	B. n 	C. n+1 	D. $n^2$
 ><font color="blue">m++语句的执行次数为</font>
 >$$
 >\color{red}
->\sum_{i=1}^{n} \sum_{j=1}^{2i} 1 = \sum_{i=1}^{n} 2i = 2 \sum_{i=1}^{n} i = n(n+1)
+>\sum_{i=1}^{n} \sum_{j=1}^{2i} 1 = \sum_{i=1}^{n} 2i = 2 \sum_{i=1}^{n} i = n(n+1)
+
 >$$
 >
 
